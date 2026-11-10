@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "dev.workers.jiong_cai_46d.libretvde.twa",
+      "package_name": "dev.workers.jiong_cai_46d.libretv.twa",
       "sha256_cert_fingerprints": [
-        "14:AD:12:D7:8C:8A:06:21:AB:AF:F2:8D:B2:BA:0C:7B:12:43:C0:A9:58:97:C4:E3:1D:0E:B5:C4:3B:53:1B:19"
+        "31:6E:27:DD:BF:5D:83:1C:A2:59:7F:F9:04:FF:61:6D:B7:74:64:39:80:EF:AD:98:51:D0:82:2C:E3:92:74:93"
       ]
     }
   }

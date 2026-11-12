@@ -6,7 +6,7 @@ export default function manifest(): MetadataRoute.Manifest {
     short_name: 'LibreTV',
     description: '免费在线视频搜索与观看平台',
     start_url: '/',
-    display: 'standalone',
+    display: 'fullscreen',
     background_color: '#111111',
     theme_color: '#0b101a',
     icons: [
